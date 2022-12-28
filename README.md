@@ -7,8 +7,7 @@
 <h1 align="center"> Purpose of the project </h1>
 
 
-<h3> generate random passwords, with possibility to choose password settings like;</h3>  <br> <br>
-
+<h3> generate random passwords, with possibility to choose password settings like;</h3>  <br> 
 
 #### * Length of the password (1 - 30)
 #### * Uppercase  (A - Z)
@@ -16,9 +15,9 @@
 #### * Symbol (!-$^+)
 #### * Include Spaces
 #### * Delete Duplicates
+<br>
 
-
-<h3>:warning: To run the application it is necessary to have Git installed on your machine, if you already have it proceed to: </h3>
+<h2>:warning: To run the application it is necessary to have Git installed on your machine, if you already have it proceed to:</h2> <br>
 
 :small_blue_diamond: [How to run the application](#How-to-run-the-application-arrow_forward)
 
@@ -38,7 +37,6 @@ Clone the project in the terminal:
 
 ```
 git clone https://github.com/SamuelSilvaB/password-generetor.git
-
 ```
 
 Then:
@@ -63,9 +61,3 @@ google-chrome index.html
 
 - ``Ubuntu 22.04.1 LTS``
 - ``64-bit``
-
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: 2022 - Password Generetor
