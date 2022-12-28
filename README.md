@@ -53,8 +53,19 @@ google-chrome index.html
 
 #### :exclamation: :exclamation: :exclamation: the initial part of the last command, ```google-chrome``` refers to the browser you are using, if you are using a different browser than the one I am currently using, just change this part and put the browser you are using. :exclamation: :exclamation: :exclamation: 
 
-<h2 align="center">✔️ Tecnologia utilizada </h2>
+<h2 align="center">✔️ Technology used </h2>
 
 - ``HTML``
 - ``CSS``
 - ``JS``
+
+<h2 align="center">✔️ operational system </h2>
+
+- ``Ubuntu 22.04.1 LTS``
+- ``64-bit``
+
+## Licença 
+
+The [MIT License]() (MIT)
+
+Copyright :copyright: 2022 - Password Generetor
