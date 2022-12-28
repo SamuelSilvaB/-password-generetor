@@ -22,6 +22,7 @@
 
 :small_blue_diamond: [How to run the application](#How-to-run-the-application-arrow_forward)
 
+
 <h1 align="center">installing Git</h1>
 
 In the terminal type the following command:
@@ -29,26 +30,28 @@ In the terminal type the following command:
 ```
 sudo apt-get update sudo apt-get install git
 ```
-  
-## How to run the application :arrow_forward:
-
+<h2 align=center>
+How to run the application :arrow_forward:
+</h2>
 
 Clone the project in the terminal:
 
 ```
-git clone https://github.com/SamuelSilvaB/Trabalho_3.git
+git clone https://github.com/SamuelSilvaB/password-generetor.git
+
 ```
 
 Then:
 ```
-cd Trabalho_3
+cd password-generetor
 ```
 
 And finally:
 ```
-./trabalho_3
+google-chrome index.html 
 ```
 
+#### :exclamation: :exclamation: :exclamation: the initial part of the last command, ```google-chrome``` refers to the browser you are using, if you are using a different browser than the one I am currently using, just change this part and put the browser you are using. :exclamation: :exclamation: :exclamation: 
 
 <h2 align="center">✔️ Tecnologia utilizada </h2>
 
